@@ -1,6 +1,6 @@
 <h3 align="center"> Olá, eu me chamo Vinicius Fin! 
 <div><br>
-Atualmente estou estudando sobre Data Science!
+Atualmente estou estudando Python e Data Science!
 
 <div><br>
 <a href = "mailto:vinicius.fin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
